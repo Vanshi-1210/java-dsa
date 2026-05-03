@@ -21,6 +21,7 @@ public class TwoDArrayInputOutput {
             for(int j=0;j<columns;j++){
                 System.out.print(Array[i][j]+" ");
             }
+            System.out.println();
         }
         sc.close();
     }
